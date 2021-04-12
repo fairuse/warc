@@ -1,4 +1,4 @@
-module github.com/CorentinB/warc
+module github.com/fairuse/warc
 
 go 1.13
 
